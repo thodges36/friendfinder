@@ -1,4 +1,4 @@
-// Note: Much of this information was used in 16 - Hot Restaurant
+// Note: Some of this was adapted from 16 - Hot Restaurant
 
 // Dependencies
 
@@ -16,8 +16,8 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
 // Routes
-require("./app/routing/apiRoutes")(app);
-require("./app/routing/htmlRoutes")(app);
+require("./app/routing/apiRoutes.js")(app);
+require("./app/routing/htmlRoutes.js")(app);
 
 // Starts the server
 
