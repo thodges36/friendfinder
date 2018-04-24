@@ -3,7 +3,7 @@
 var friends = [
     {
       name:"Herman Edwards",
-      photo:"https://cdnph.upi.com/svc/sv/upi/5541512363528/2017/1/791c3b8651649483c320cea653559edb/Herm-Edwards-Arizona-State-officially-hires-head-coach.jpg",
+      photo:"https://www.gannett-cdn.com/-mm-/50b5ae22abe76ebc0456ea0e202b6896d665cd66/c=0-101-1575-1285&r=x404&c=534x401/local/-/media/2017/04/06/TennGroup/Murfreesboro/636270707533347855-20130816-TDT-L-HERM-0817-p1.jpg",
       scores:[
         "1",
         "1",
